@@ -7,5 +7,6 @@ public class Test
         System.out.println("你好");
         System.out.println("你好666");
         System.out.println("frok测试!");
+        System.out.println("frok拒绝测试!");
     }
 }
