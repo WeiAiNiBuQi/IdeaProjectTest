@@ -6,5 +6,6 @@ public class Test
         System.out.println("nihao");
         System.out.println("你好");
         System.out.println("你好666");
+        System.out.println("frok测试!");
     }
 }
